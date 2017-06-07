@@ -2,6 +2,9 @@
 
 > Just a simple todo application with VueJS
 
+## Screenshot
+<img src="/Screenshots/1.png" width=280 />
+
 ## Build Setup
 
 ``` bash
