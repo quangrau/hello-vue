@@ -1,6 +1,6 @@
 # hello-vue
 
-> Just a simple todo application with VueJS
+> Just a simple application with VueJS
 
 ## Screenshot
 <img src="/Screenshots/1.png" width=280 />
